@@ -11,5 +11,7 @@ En este curso vemos de todo:
 * Las personalidades multiples de Freddy
 * hola soy guille
 * tiene ejemplos en windows linux y mac
+* Disponible para todas las edades
+
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Disenado para el ejemplo . Si llegas a aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
