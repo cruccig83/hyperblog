@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* hola soy guille
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Disenado para el ejemplo . Si llegas a aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
